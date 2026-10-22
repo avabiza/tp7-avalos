@@ -5,5 +5,7 @@ git add: este prepara los cambios necesarios y los archivos modificados para que
 git commit: este guarda una version de los cambios con un mensaje.
 git push: este sube los cambios hechos en la coputadora directamente a github.
 git pull: este trae los cambios nuevos de github a la computadora.
-git.....
-git.....
+git branch: este crea una rama o muestra las que existen.
+git switch:este cambia a otra rama de trabajo.
+git merge: une una rama con la que estamos usando.
+git log: muestra el historial de commits.
